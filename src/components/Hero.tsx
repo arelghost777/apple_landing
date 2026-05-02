@@ -26,7 +26,8 @@ const Hero = () => {
         </div>
         <video ref={videoRef} src="/videos/hero.mp4" autoPlay playsInline muted>Votre navigateur ne supporte pas la vidéo.</video>
         <button>Buy</button>
-        <p>From $1599 to $133/mo for 12 months</p>
+        <p>From $1599 to $133/mo for 12 months
+        </p>
     </section>
   )
 }
